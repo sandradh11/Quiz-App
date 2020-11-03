@@ -7,6 +7,7 @@ import { GlobalStyle, Wrapper } from './App.styles'
 const first=false;
 const second=true;
 let result=2+2;
+const sandra='cute';
 
 const TOTAL_QUESTIONS = 10;
 export type AnswerObject = {
